@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @Dhruw08
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hello, MY NAME IS AYUSH DHRUW! 👋
 
-<!---
-Dhruw08/Dhruw08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a STUDENT, passionate about learning new programming languages and tools. Welcome to my GitHub profile!
+
+## 🔭 I’m currently working on
+
+- LEARNING RUST
+- DSA
+- PYTHON
+
+## 📫 How to reach me
+
+-E-mail : dhruwayush71@gmail.com\
+-LinkedIn Profile: www.linkedin.com/in/ayush-dhruw
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhruw08show_icons=true&theme=radical)
