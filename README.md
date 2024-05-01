@@ -1,4 +1,4 @@
-https://github.com/Dhruw08/Dhruw08/blob/main/compiling-code.gif
+![logo](https://github.com/Dhruw08/Dhruw08/blob/main/compiling-code.gif)
 # Hello, MY NAME IS AYUSH DHRUW! 👋
 
 I'm a STUDENT, passionate about learning new programming languages and tools. Welcome to my GitHub profile!
