@@ -6,9 +6,10 @@ I'm a STUDENT, passionate about learning new programming languages and tools. We
 
 ## 🔭 I’m currently learning
 
-- LEARNING RUST
-- DSA
+- RUST
+- DSA in C
 - PYTHON
+- Object Oriented Programming
 
 ## 📫 How to reach me
 
