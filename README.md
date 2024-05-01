@@ -15,4 +15,4 @@ I'm a STUDENT, passionate about learning new programming languages and tools. We
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhruw08show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhruw08&show_icons=true&theme=radical)
