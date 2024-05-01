@@ -4,7 +4,7 @@
 
 I'm a STUDENT, passionate about learning new programming languages and tools. Welcome to my GitHub profile!
 
-## 🔭 I’m currently working on
+## 🔭 I’m currently learning
 
 - LEARNING RUST
 - DSA
